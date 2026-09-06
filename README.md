@@ -14,13 +14,7 @@
 <hr>
 
 <div>
-<img src="badges.svg" alt="Tech Stack" style="max-width: 800px;" />
-</div>
-
-<hr>
-
-<div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msyahmikarim&theme=high-contrast&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=555555" alt="GitHub Activity Graph" />
+<img src="badges.svg?v=2" alt="Tech Stack" style="max-width: 800px;" />
 </div>
 
 <hr>
